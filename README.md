@@ -3,4 +3,4 @@ I made a website which gives the number of covid-19 cases count of each country.
 
 
 
-Link for the website - https://covid-19-case-count-tejaswi.netlify.app/
+Link - https://drive.google.com/file/d/1G8xf3jDLJm7Qs_VrDbYv2sqQRIAZhUcV/view?usp=sharing
